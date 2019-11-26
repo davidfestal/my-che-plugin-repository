@@ -1,0 +1,14 @@
+[
+  {
+    "description": "View a Git Graph of your repository, and perform Git actions from the graph.",
+    "displayName": "Git Graph",
+    "id": "mhutchie/vscode-git-graph/1.18.0",
+    "links": {
+      "self": "/v3/plugins/mhutchie/vscode-git-graph/1.18.0/"
+    },
+    "name": "vscode-git-graph",
+    "publisher": "mhutchie",
+    "type": "VS Code extension",
+    "version": "1.18.0"
+  }
+]
