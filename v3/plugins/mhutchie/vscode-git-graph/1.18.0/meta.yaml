@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: mhutchie
+name: vscode-git-graph
+version: 1.18.0
+type: VS Code extension
+displayName: Git Graph
+title: Git Graph
+description: View a Git Graph of your repository, and perform Git actions from the graph.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/mhutchie/vscode-git-graph
+category: SCM
+spec:
+  extensions:
+    - https://github.com/mhutchie/vscode-git-graph/releases/download/v1.18.0/git-graph-1.18.0.vsix
